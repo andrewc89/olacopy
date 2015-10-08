@@ -1,4 +1,4 @@
-set log=C:\Maintenance\backup.log
+set log=D:\src\backup.log
 set src=D:\src
 set dest=\\backupserver\backupshare
 
